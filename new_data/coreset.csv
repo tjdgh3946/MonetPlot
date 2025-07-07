@@ -1,0 +1,4 @@
+Method, $\epsilon=1$,$\epsilon=3$,$\epsilon=8$,$\epsilon=\infty$
+Ensemble=10 with coreset,29.20,28.24,30.29,32.53
+Ensemble=10,28.85,27.55,30.04,32.21
+Ensemble=100,29.36,29.17,31.62,32.91

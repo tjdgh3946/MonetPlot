@@ -1,0 +1,5 @@
+Model,Second Turn,First Turn
+GPT-4o-mini,93.88,6.12
+GPT-4o,92.52,7.48
+LLaMa-8B,76.73,23.27
+Claude 3.5,83.4,16.6

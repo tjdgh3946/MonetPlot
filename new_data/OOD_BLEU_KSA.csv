@@ -1,0 +1,5 @@
+Dataset, Our-of-Distribution, In-distribution 
+$\epsilon=1$, 22.19, 22.69 
+$\epsilon=3$, 22.8, 23.36
+$\epsilon=8$, 16.25, 23.36
+$\epsilon=\infty$, 25.61, 26.1 

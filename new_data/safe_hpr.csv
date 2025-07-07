@@ -1,0 +1,4 @@
+Name,No Training,1 Epoch,2 Epoch,3 Epoch
+ASR (ASCII),75.80,13.37,0.0,0.0
+ASR (custom rule),69.84,39.07,0.64,1.2
+HPR on Benign Prompts,93.40,69.2,1.73,1.3

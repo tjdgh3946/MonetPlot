@@ -1,0 +1,3 @@
+Type, gpt-3.5-turbo, gpt-4o-mini, gpt-4o, claude-3.5, llama3, qwen2
+Declarative, 4.93, 4.95, 4.98, 3.86, 4.28, 4.98
+Imperative, 4.23, 4.22, 3.65, 1.95, 2.71, 3.50

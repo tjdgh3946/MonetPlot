@@ -1,0 +1,3 @@
+Model,RedAvg_before,RedAvg_after
+Claude 3.5,73.68,97.550
+LLaMa 3-8B,81.29,98.58

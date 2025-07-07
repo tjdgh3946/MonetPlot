@@ -1,0 +1,5 @@
+Dataset, OOD public, ID public 
+$\epsilon=1$, 11.61,  13.34
+$\epsilon=3$, 13.49, 14.03
+$\epsilon=8$, 14.11, 15.93
+$\epsilon=\infty$, 13.77,  16.49

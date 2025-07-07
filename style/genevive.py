@@ -1,0 +1,63 @@
+import matplotlib as mpl
+
+
+plot_cycle = ["#5A98D0", "#FF4F5E", "#30C19B", "#FFB71B", "#C048B9"]
+bar_cycle = ["#CA1F7B", "#A8D5C0", "#F29B93", "#E8D3A9", "#D5A6C6"]
+bar_cycle_vivid = ["#005699", "#DC143C", "#4eae91", "#FFA500", "#FD5E53"]
+genevive = {
+    "bar": {
+        "font.size": 14,
+        "axes.labelsize": 14,
+        "xtick.labelsize": 14,
+        "ytick.labelsize": 12,
+        "xtick.color": "black",
+        "xtick.labelcolor": "black",
+        "ytick.color": "#FFFFFF",
+        "ytick.labelcolor": "black",
+        "axes.labelcolor": "black",
+        "axes.spines.top": False,
+        "axes.spines.right": False,
+        "axes.edgecolor": "black",
+        "grid.linestyle": "-",
+        "grid.color": "lightgray",
+        "axes.titlecolor": "black",
+        "axes.prop_cycle": mpl.cycler(color=bar_cycle),
+    },
+    "bar_vivid": {
+        "font.size": 14,
+        "axes.labelsize": 14,
+        "xtick.labelsize": 14,
+        "ytick.labelsize": 12,
+        "xtick.color": "black",
+        "xtick.labelcolor": "black",
+        "ytick.color": "#FFFFFF",
+        "ytick.labelcolor": "black",
+        "axes.labelcolor": "black",
+        "axes.spines.top": False,
+        "axes.spines.right": False,
+        "axes.edgecolor": "black",
+        "grid.linestyle": "-",
+        "grid.color": "lightgray",
+        "axes.titlecolor": "black",
+        "axes.prop_cycle": mpl.cycler(color=bar_cycle_vivid),
+    },
+    "plot": {
+        "font.size": 14,
+        "axes.labelsize": 14,
+        "xtick.labelsize": 14,
+        "ytick.labelsize": 12,
+        "xtick.color": "black",
+        "xtick.labelcolor": "black",
+        "ytick.color": "#FFFFFF",
+        "ytick.labelcolor": "black",
+        "axes.labelcolor": "black",
+        "axes.spines.top": False,
+        "axes.spines.right": False,
+        "axes.spines.left": False,
+        "axes.edgecolor": "black",
+        "grid.linestyle": "-",
+        "grid.color": "lightgray",
+        "axes.titlecolor": "black",
+        "axes.prop_cycle": mpl.cycler(color=plot_cycle),
+    },
+}

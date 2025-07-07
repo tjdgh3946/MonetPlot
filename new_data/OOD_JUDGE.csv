@@ -1,0 +1,5 @@
+Metric,OOD public, ID public
+$\epsilon=1$,2.88,2.82
+$\epsilon=3$,2.95,3.08
+$\epsilon=8$,2.99,3.11
+$\epsilon=\infty$ (agg),3.05,3.24

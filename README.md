@@ -56,8 +56,6 @@ monet.plot(xlabel="Epsilon", ylabel="BLEU", marker="enum", linestyle="--", grid=
                 title="BLUE score over k", legend=True, markersize=4, titlesize=10, path="figuretemp.png")
 ```
 
-    <class 'numpy.ndarray'> <class 'numpy.ndarray'> <class 'numpy.ndarray'>
-
 
 
     

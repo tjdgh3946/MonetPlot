@@ -1,0 +1,5 @@
+Dataset, OOD public, AUG public, ID public 
+$\epsilon=1$, 27.65, 28.34, 29.36
+$\epsilon=3$, 27.92, 28.65,29.17
+$\epsilon=8$, 29.34, 30.13,31.62
+$\epsilon=\infty$, 28.67, 30.56, 32.91 

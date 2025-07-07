@@ -1,0 +1,7 @@
+Model, HaPLa (Full), Only Symbolic Encoding, Only Abductive Style
+GPT-3.5-turbo, 95.77, 67.88, 98.46
+GPT-4o-mini, 97.11, 66.73, 67.31
+GPT-4o, 98.84, 54.62, 76.54
+Claude 3.5, 70.58, 23.08, 1.35
+LLaMa 3-8B, 72.88, 48.46, 20.58
+Qwen 2.5-7B, 98.65, 15.00, 99.81
